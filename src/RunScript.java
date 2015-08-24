@@ -60,7 +60,6 @@ public class RunScript {
     	} finally {
     		Context.exit();
     	}
-    	
     	return result;
     }
     
